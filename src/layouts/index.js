@@ -48,11 +48,11 @@ class TemplateWrapper extends React.Component {
       <ThemeProvider theme={theme}>
         <div className={"site-wrapper " + this.state.loadState}>
           <Helmet
-            title="Undersight.co"
+            title="zachdonsky.xyz"
             meta={[
               { name: 'name', content: 'Undersight.co' },
-              { name: 'description', content: 'Undersight.co is the digital playground of Eduardo Nunes. Full-time graphic designer, part-time noise maker. Head of Design at Stockholm-based Kollegorna.' },
-              { name: 'keywords', content: 'undersight, design, eduardo nunes, Web, development, frontend, graphic' },
+              { name: 'description', content: 'ZachDonsky.xyz is the digital portfolio of Zachary Donsky' },
+              { name: 'keywords', content: 'Zachary Donsky, design, Industrial Design, Web, development, frontend, electronics, arduino, homelessness, Chalmers, ChalmersCards, Chalmers Cards' },
               { name: 'image', content: "/images/og.png" }
             ]}
           >
