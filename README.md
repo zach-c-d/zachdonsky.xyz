@@ -1,10 +1,11 @@
-# undersight.co
+# zachdonsky.xyz
+> This is a fork of [Eduardo Nunes](https://github.com/emmnunes)'s portfolio site, [undersight.co](undersight.co). He is a #%^@ing saint for open sourcing it!!!!
 
 ## Environments
 
 ### Production
 
-https://undersight.co
+https://zachdonsky.xyz
 
 ## Running locally
 

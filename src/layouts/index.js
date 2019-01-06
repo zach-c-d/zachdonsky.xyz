@@ -50,7 +50,7 @@ class TemplateWrapper extends React.Component {
           <Helmet
             title="zachdonsky.xyz"
             meta={[
-              { name: 'name', content: 'Undersight.co' },
+              { name: 'name', content: 'zachdonsky.xyz' },
               { name: 'description', content: 'ZachDonsky.xyz is the digital portfolio of Zachary Donsky' },
               { name: 'keywords', content: 'Zachary Donsky, design, Industrial Design, Web, development, frontend, electronics, arduino, homelessness, Chalmers, ChalmersCards, Chalmers Cards' },
               { name: 'image', content: "/images/og.png" }
