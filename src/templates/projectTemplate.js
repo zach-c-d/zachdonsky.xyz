@@ -266,7 +266,7 @@ export default function Template({
 
   return (
     <div>
-      <Helmet title={frontmatter.title + " — Undersight.co"} />
+      <Helmet title={frontmatter.title + " — zachdonsky.xyz"} />
 
       <ProjectWrapper>
         <ProjectContent role="main">

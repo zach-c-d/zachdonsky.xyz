@@ -95,10 +95,7 @@ class Footer extends React.Component {
             <Link to="/">ZachDonsky</Link>
         </FooterLogo>
         <FooterLinks>
-            <a href="https://www.behance.net/eduardonunes" target="_blank" rel="noopener noreferrer"><img src={Behance} alt="Behance logo" /> <span>Behance</span></a>
-            <a href="https://dribbble.com/eduardonunes" target="_blank" rel="noopener noreferrer"><img src={Dribbble} alt="Dribbble logo" /> <span>Dribbble</span></a>
-            <a href="https://github.com/emmnunes" target="_blank" rel="noopener noreferrer"><img src={GitHub} alt="GitHub logo" /> <span>GitHub</span></a>
-            <a href="http://tumblr.undersight.co/" target="_blank" rel="noopener noreferrer"><img src={Tumblr} alt="Tumblr logo" /> <span>Tumblr</span></a>
+            <a href="https://github.com/zacharydonsky" target="_blank" rel="noopener noreferrer"><img src={GitHub} alt="GitHub logo" /> <span>GitHub</span></a>
         </FooterLinks>
     </MainFooter>
     )
