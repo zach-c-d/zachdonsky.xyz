@@ -81,12 +81,22 @@ I spent my winter holiday at Hacklab learning the laser cutter. For those two we
 ![image of early chalmers card batch](images/forgottenChalmers.png)
 ![image of early chalmers card batch](images/allForgottenChalmers.png)
 
-> Etching onto wood made the information feel valuable, without having any actual monetary value. It shows the user that someone cares about them. Giving them out felt like giving a gift.
+> Etching onto wood made the information feel valuable, without having any actual monetary value. It showed the user that someone cares about them. Giving out the booklets felt like giving a gift.
 
-At first my intention had been to just make the information more durable. But etching on wood so many other things better.
+At first my intention had been to just make the information more durable. But etching onto wood made a lot of things better.
 
 The cards now smelled nice, and felt nice in the hand. They could also be snapped onto things (such as pant loops and crutches!). Folks seemed really happy to keep them.
 
 ![image of chalmers card iterations](image/chalmersVersions.png)
+
+The card have been really popular. But I haven't been able to meet the demand for them by making them myself. Etching all the cards' details takes a lot of time on the laser.
+
+![image of zero cost Manufacturing](image/ZeroCostManufacturing.png)
+
+Originally my plan was to share the load of producing the cards across the different maker spaces in Toronto. The maker spaces were happy to contribute, and I had no problem sourcing volunteers to man the lasers.
+
+Unfortunately, not all lasers are created equal. The laser tube and lens at hacklab are particularly well suited for the fine detail needed on a Chalmers Card. None of the other lasers I tested were capable of the same level of detail.
+
+Currently, each booklet only costs about $0.10 in materials so long as a I make them myself at HackLab. Of course, making them myself indefinitely is unsustainable. Instead, I may increase the cost of each booklet a few dollers by ordering vinyl stickers with information on them, and then just sticking them to the wooden cards.
 
 </article>
