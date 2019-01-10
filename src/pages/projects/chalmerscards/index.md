@@ -4,7 +4,7 @@ title: "Chalmers Cards"
 type: "Research + Design + Manufacturing"
 
 # Thumbnails
-thumbnail: "./thumbnail.jpg"
+thumbnail: "./thumbnail.svg"
 
 # Options
 path: "/chalmerscards/"
