@@ -1,13 +1,13 @@
 ---
 # Metadata
-title: "Fluid Handling Robot"
-type: "Electronics / Hardware Hacking"
+title: "Wax Container"
+type: "CAD + Product Design"
 
 # Thumbnails
 thumbnail: "./thumbnail.png"
 
 # Options
-path: "/fluidrobot/"
+path: "/waxcontainer/"
 order: 4
 ---
 
@@ -20,7 +20,7 @@ So in the fall of 2018 I was contracted by *Spindle Biotech* to help them get th
 Since they got it from a dump, they didn't get any software to control it. Our plan was to completely replace the control board with an open source one, and run the robot with open source firmware and hardware.
 
 For a control board we used a RAMPS board with an Arduino Mega, and a custom circuit board for the endstop and stepper cables to terminate into.
- 
+
 </article>
 
 ![Chalmers Signal](images/signalAtStFelix.jpg)

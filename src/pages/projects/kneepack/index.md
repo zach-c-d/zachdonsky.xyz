@@ -7,30 +7,25 @@ type: "Product Design"
 thumbnail: "./thumbnail.png"
 
 # Options
-path: "/fluidrobot/"
+path: "/kneepack/"
 order: 4
 ---
 
 <article role="article">
 
-My friends from *Spindle Biotech* had become privey to an electronics dump that Princess Margret Hospital was going to make. They scored a lot of neat robots; amongst them a fluid handling robot.
+Back in 2016 I put out a message on the a facebook arthritis group. The message explained that I was an industrial design student, and that I'd be willing to help design and prototype any idea anyone had, so long as they messaged me and were willing to meetup.
 
-So in the fall of 2018 I was contracted by *Spindle Biotech* to help them get the fluid handling robot up and running.
-
-Since they got it from a dump, they didn't get any software to control it. Our plan was to completely replace the control board with an open source one, and run the robot with open source firmware and hardware.
-
-For a control board we used a RAMPS board with an Arduino Mega, and a custom circuit board for the endstop and stepper cables to terminate into.
+A couple weeks after posting the message I got a response from a lady who explained her idea for a wheelchair knapsack. She called it a *kneepack*.
 
 </article>
 
-![Chalmers Signal](images/signalAtStFelix.jpg)
-
+![image of lady prototyping at ocad](images/prototypingatocad.jpg)
 
 <article role="article">
 
-It was a short project. From research to the prototype it only took about 12 hours.
+Soon after I met up with her and her husband at OCAD. We spent the afternoon spitballing ideas and building quick prototypes.
 
-I had a great time playing with the ESP8266, making them into a simple web server and client.
+The project was intended to be build for my core industrial design class; I only had month or so to complete it. 
 
 </article>
 
