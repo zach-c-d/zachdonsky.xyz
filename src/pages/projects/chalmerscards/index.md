@@ -26,9 +26,9 @@ Chalmers Cards is the first project from [Chalmers](www.chalmerscards.com), whic
 
 > Homelessness should not exist. It's a bug in Toronto's DNA. People should be free to live how they like, but no one should ever feel they have no choice but to sleep on the street.
 
-My goal going into thesis year at OCAD was to put a dent in Toronto's population experiencing homelessness.
+My goal going into thesis year at OCAD was to put a dent in Toronto's population experiencing homelessness. I started with my favorite design philosophy:
 
-My favorite design philosophy is: "Fall in love with the problem, not your solution. Solutions are just your experiments."
+>"Fall in love with the problem, not your solution. Solutions are just your experiments."
 
 In this case, I identified the problem as being that **Toronto's social infrastructure was failing to scale with the increasing homeless population**. I began by trying to fall in love with the structures of Toronto's social infrastructure
 
@@ -79,7 +79,7 @@ Printing the information on card was a huge mistake. They felt cheap and uninter
 I spent my winter holiday at Hacklab learning the laser cutter. For those two weeks, I practically lived there. Hacklab's laser was bought with a broken control board, and without any software to operate it. so major parts of the laser itself, and a lot of it's workflow, was built by Hacklab members. It gives the laser a lot of character; And a lot of quirks. But by the time school was back on in January, I had developed a workflow for cutting batches of these wooden information cards.
 
 ![image of early chalmers card batch](images/forgottenChalmers.png)
-![image of early chalmers card batch](images/allForgottenChalmers.png)
+
 
 > Etching onto wood made the information feel valuable, without having any actual monetary value. It showed the user that someone cares about them. Giving out the booklets felt like giving a gift.
 
@@ -87,11 +87,11 @@ At first my intention had been to just make the information more durable. But et
 
 The cards now smelled nice, and felt nice in the hand. They could also be snapped onto things (such as pant loops and crutches!). Folks seemed really happy to keep them.
 
-![image of chalmers card iterations](image/chalmersVersions.png)
+![image of early chalmers card batch](images/allForgottenChalmers.png)
 
-The card have been really popular. But I haven't been able to meet the demand for them by making them myself. Etching all the cards' details takes a lot of time on the laser.
+The booklets have been really popular. But I haven't been able to meet the demand for them by making them myself. Etching all the cards' details takes a lot of time on the laser.
 
-![image of zero cost Manufacturing](image/ZeroCostManufacturing.png)
+![image of zero cost Manufacturing](images/ZeroCostManufacturing.png)
 
 Originally my plan was to share the load of producing the cards across the different maker spaces in Toronto. The maker spaces were happy to contribute, and I had no problem sourcing volunteers to man the lasers.
 

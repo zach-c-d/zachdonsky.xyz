@@ -4,7 +4,7 @@ title: "Chalmers Signal"
 type: "Electronics + Design + Web"
 
 # Thumbnails
-thumbnail: "./thumbnail.png"
+thumbnail: "./thumbnail.svg"
 
 # Options
 path: "/chalmerssignal/"
@@ -25,6 +25,12 @@ I've been experimenting with internet buttons. Here is an image of the internet 
 <article role="article">
 
 The button is a rotating switch. The green light means space available, the yellow means nearly full, and red means full. An LED lights up when the switch’s selector aligns with it.
+</article>
+
+![rendering 1 ](images/rendering1.png)
+
+<article role="article">
+
 
 The switch could live behind a reception desk of a main office, like the one pictured below (modeled after the desk at St. Felix):
 

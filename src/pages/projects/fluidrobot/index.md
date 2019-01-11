@@ -1,21 +1,25 @@
 ---
 # Metadata
-title: "Wireless Mains Switch"
-type: "Electronics"
+title: "Fluid Handling Robot"
+type: "Electronics / Hardware Hacking"
 
 # Thumbnails
-thumbnail: "./thumbnail.png"
+thumbnail: "./thumbnail.svg"
 
 # Options
-path: "/mainsswitch/"
-order: 3
+path: "/fluidrobot/"
+order: 4
 ---
 
 <article role="article">
 
-In late 2018 I was contracted by *Tech Tap* to put together a button that could wirelessly control a mains power outlet.
+My friends from *Spindle Biotech* had become privey to an electronics dump that Princess Margret Hospital was going to make. They scored a lot of neat robots; amongst them a fluid handling robot.
 
-*Tech Tap* planned to what I made to retrofit grocery store aisle lights to have them controlled from a Raspberry Pi.
+So in the fall of 2018 I was contracted by *Spindle Biotech* to help them get the fluid handling robot up and running.
+
+Since they got it from a dump, they didn't get any software to control it. Our plan was to completely replace the control board with an open source one, and run the robot with open source firmware and hardware.
+
+For a control board we used a RAMPS board with an Arduino Mega, and a custom circuit board for the endstop and stepper cables to terminate into.
 
 </article>
 
