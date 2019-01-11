@@ -4,7 +4,7 @@ title: "Kneepack"
 type: "Product Design"
 
 # Thumbnails
-thumbnail: "./thumbnail.png"
+thumbnail: "./thumbnail.svg"
 
 # Options
 path: "/kneepack/"
@@ -25,7 +25,7 @@ A couple weeks after posting the message I got a response from a lady who explai
 
 Soon after I met up with her and her husband at OCAD. We spent the afternoon spitballing ideas and building quick prototypes.
 
-The project was intended to be build for my core industrial design class; I only had month or so to complete it. 
+The project was intended to be build for my core industrial design class; I only had month or so to complete it.
 
 </article>
 

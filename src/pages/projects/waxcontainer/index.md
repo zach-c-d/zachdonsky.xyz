@@ -4,7 +4,7 @@ title: "Wax Container"
 type: "CAD + Product Design"
 
 # Thumbnails
-thumbnail: "./thumbnail.png"
+thumbnail: "./thumbnail.svg"
 
 # Options
 path: "/waxcontainer/"
