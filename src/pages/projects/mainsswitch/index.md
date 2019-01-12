@@ -19,15 +19,19 @@ In late 2018 I was contracted by *Tech Tap* to put together a button that could 
 
 </article>
 
-![Chalmers Signal](images/signalAtStFelix.jpg)
 
-
+![cutting with dremel](images/cuttingwithdremel.jpg)
 <article role="article">
 
 It was a short project. From research to the prototype it only took about 12 hours.
 
-I had a great time playing with the ESP8266, making them into a simple web server and 
+</article>
+
+![breadboard](images/breadboard.jpg)
+
+<article role="article">
+I had a great time playing with the ESP8266, making them into a simple web server and client.
 
 </article>
 
-![Chalmers Signal illustration](images/chalmersSignalIllustration.png)
+![complete](images/complete.jpg)

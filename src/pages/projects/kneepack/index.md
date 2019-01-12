@@ -19,14 +19,26 @@ A couple weeks after posting the message I got a response from a lady who explai
 
 </article>
 
-![image of lady prototyping at ocad](images/prototypingatocad.jpg)
+![image of lady prototyping at ocad](images/louiseatocad.jpg)
 
 <article role="article">
 
-Soon after I met up with her and her husband at OCAD. We spent the afternoon spitballing ideas and building quick prototypes.
+Soon after I was able to meet up with her and her husband at OCAD. We spent the afternoon spitballing ideas and building quick prototypes.
+
+</article>
+
+![nice Drawing](images/niceDrawing.jpg)
+
+<article role="article">
 
 The project was intended to be build for my core industrial design class; I only had month or so to complete it.
 
 </article>
 
-![Chalmers Signal illustration](images/chalmersSignalIllustration.png)
+![Chalmers Signal illustration](images/physicalPrototype.jpg)
+
+<article role="article">
+
+The physical prototype was a bit of a mess. It was my first attempt at building a soft product.
+
+</article>

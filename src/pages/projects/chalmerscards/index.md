@@ -54,6 +54,7 @@ Ironically, my difficulty in researching Toronto's social services is what led t
 ![Problem statement: poor information sources](images/poorInformation.png)
 ![Potential methods for delivering information statement](images/improvedInformation.png)
 ![Potential project directions](images/projectDirections.png)
+
 <article role="article">
 
 My first solution direction was *some kind* of an information delivery network; Which was broken down into four project directions.
@@ -66,20 +67,35 @@ Most of the folks I talked to didn't own a computer! Theft is unfortunately very
 
 > Getting on the internet is a real chore when you don't own a computer.
 
+</article>
+
 ![paper chalmers card](images/protoChalmersCard.png)
+
+<article role="article">
 
 So the project direction moved to inexpensive handouts. They were quick to prototype, and their only barrier between the user and their information was english literacy.
 
+</article>
+
 ![paper card feedback](images/protoChalmersCardFeedback.png)
+
+<article role="article">
 
 Printing the information on card was a huge mistake. They felt cheap and uninteresting. Many people I handed them to stuffed them immediately in their pockets. A couple even crumpled them up right in front of me. Giving them out felt like handing out flyers.
 
+</article>
+
 ![image of early chalmers card](images/thefirstChalmersCard.png)
+
+<article role="article">
 
 I spent my winter holiday at Hacklab learning the laser cutter. For those two weeks, I practically lived there. Hacklab's laser was bought with a broken control board, and without any software to operate it. so major parts of the laser itself, and a lot of it's workflow, was built by Hacklab members. It gives the laser a lot of character; And a lot of quirks. But by the time school was back on in January, I had developed a workflow for cutting batches of these wooden information cards.
 
+</article>
+
 ![image of early chalmers card batch](images/forgottenChalmers.png)
 
+<article role="article">
 
 > Etching onto wood made the information feel valuable, without having any actual monetary value. It showed the user that someone cares about them. Giving out the booklets felt like giving a gift.
 
@@ -87,11 +103,19 @@ At first my intention had been to just make the information more durable. But et
 
 The cards now smelled nice, and felt nice in the hand. They could also be snapped onto things (such as pant loops and crutches!). Folks seemed really happy to keep them.
 
+</article>
+
 ![image of early chalmers card batch](images/allForgottenChalmers.png)
+
+<article role="article">
 
 The booklets have been really popular. But I haven't been able to meet the demand for them by making them myself. Etching all the cards' details takes a lot of time on the laser.
 
+</article>
+
 ![image of zero cost Manufacturing](images/ZeroCostManufacturing.png)
+
+<article role="article">
 
 Originally my plan was to share the load of producing the cards across the different maker spaces in Toronto. The maker spaces were happy to contribute, and I had no problem sourcing volunteers to man the lasers.
 
