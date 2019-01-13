@@ -13,17 +13,15 @@ order: 4
 
 <article role="article">
 
-My friends from *Spindle Biotech* had become privey to an electronics dump that Princess Margret Hospital was going to make. They scored a lot of neat robots; amongst them a fluid handling robot.
+On summer afternoon in 2018, a few friends and I were joking around about the soon to be boom in the marijuana market. Cannibis was going to be legalized for recreational use in the fall, so we figured there would be an increased demand for business that supported the cannibis market.
 
-So in the fall of 2018 I was contracted by *Spindle Biotech* to help them get the fluid handling robot up and running.
+One of the ideas that we toyed with was consumer dab containers. *'Dabs'* are a form of concentrated THC. Because they're so sticky, they need to be stored in a non-stick material, like silicone.
 
-Since they got it from a dump, they didn't get any software to control it. Our plan was to completely replace the control board with an open source one, and run the robot with open source firmware and hardware.
-
-For a control board we used a RAMPS board with an Arduino Mega, and a custom circuit board for the endstop and stepper cables to terminate into.
+Seeing this as an opportunity to learn about casting silicone, maybe try our hands at some injection molding, and also design something neat, we took to the drawing board!
 
 </article>
 
-![Chalmers Signal](images/signalAtStFelix.jpg)
+![Early wax container sketches](images/signalAtStFelix.jpg)
 
 
 <article role="article">
