@@ -21,15 +21,23 @@ Seeing this as an opportunity to learn about casting silicone, maybe try our han
 
 </article>
 
-![Early wax container sketches](images/signalAtStFelix.jpg)
+![Early wax container sketches](images/roughsketchs.png)
 
 
 <article role="article">
 
-It was a short project. From research to the prototype it only took about 12 hours.
+As of my writing this only hacked on the project for about a month in our spare time. So we only really have one working prototype design.
 
-I had a great time playing with the ESP8266, making them into a simple web server and client.
+Here's a rendering of our latest design:
 
 </article>
 
-![Chalmers Signal illustration](images/chalmersSignalIllustration.png)
+![design rendering](images/waxContainer.jpg)
+
+<article role="article">
+
+A few days ago we printed it up at [Hacklab.to](Hacklab.to). We're going to try and make a mold out of the model, and then try to cast a first silicone prototype in it.
+
+</article>
+
+![3d print](images/waxContainerPrint.jpg)
