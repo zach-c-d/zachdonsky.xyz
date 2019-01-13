@@ -59,7 +59,12 @@ Ironically, my difficulty in researching Toronto's social services is what led t
 
 My first solution direction was *some kind* of an information delivery network; Which was broken down into four project directions.
 
-At the time it seemed the obvious choice was a webapp plus some form of internet access. That covered three of my four project directions. Luckily, only a few months previously the City of Toronto (under the guidance of the fabulous [CG Chen](https://www.behance.net/cgchen)) had built a web app mostlty to the spec of my project: [Toronto.ca/homelesshelp](toronto.ca/homelesshelp)!
+At the time it seemed the obvious choice was to find a way to deliver internet access, and then a web app. An *internet solution* covered three of my four project directions. Luckily, only a few months previously the City of Toronto (under the guidance of the fabulous [CG Chen](https://www.behance.net/cgchen)) had built a web app mostlty to the spec of my project: [Toronto.ca/homelesshelp](toronto.ca/homelesshelp)!
+
+</article>
+
+![toronto.ca/homelesshelp](images/webapp.png)
+<article role="article">
 
 I took to the streets to conduct some user testing on Toronto's webapp.
 
@@ -121,6 +126,6 @@ Originally my plan was to share the load of producing the cards across the diffe
 
 Unfortunately, not all lasers are created equal. The laser tube and lens at hacklab are particularly well suited for the fine detail needed on a Chalmers Card. None of the other lasers I tested were capable of the same level of detail.
 
-Currently, each booklet only costs about $0.10 in materials so long as a I make them myself at HackLab. Of course, making them myself indefinitely is unsustainable. Instead, I may increase the cost of each booklet a few dollers by ordering vinyl stickers with information on them, and then just sticking them to the wooden cards.
+Currently, each booklet only costs about $0.10 in materials so long as a I make them myself at HackLab. Of course, making them myself indefinitely is unsustainable. Instead, I may increase the cost of each booklet a few dollars by ordering vinyl stickers with information on them, and then just sticking them to the wooden cards.
 
 </article>
