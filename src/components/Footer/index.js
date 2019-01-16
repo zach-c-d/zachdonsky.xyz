@@ -93,6 +93,7 @@ class Footer extends React.Component {
     <MainFooter>
         <FooterLogo>
             <Link to="/">ZachDonsky</Link>
+            <a href="mailto:zachary.donsky@gmail.com"> | Email</a>
         </FooterLogo>
         <FooterLinks>
             <a href="https://github.com/zacharydonsky" target="_blank" rel="noopener noreferrer"><img src={GitHub} alt="GitHub logo" /> <span>GitHub</span></a>
