@@ -32,7 +32,7 @@ const ProjectContent = styled.section`
     &:first-child {
       margin-top: 0;
     }
-
+    
     iframe {
       display: block;
       margin-left: auto;

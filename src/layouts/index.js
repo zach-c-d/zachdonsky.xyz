@@ -69,7 +69,7 @@ class TemplateWrapper extends React.Component {
             <meta property="og:type" content="website" />
             <meta property="og:site_name" content="zachdonsky.xyz" />
             <meta property="og:title" content="zachdonsky.xyz" />
-            <meta property="og:description" content="zachdonsky.xyz is the digital playground of Eduardo Nunes. Full-time graphic designer, part-time noise maker. Head of Design at Stockholm-based Kollegorna." />
+            <meta property="og:description" content="ZachDonsky Portfolio" />
             <meta property="og:image" content="https://www.zachdonsky.xyz/images/og.png" />
             <meta property="og:url" content={"https://www.zachdonsky.xyz" + this.props.location.pathname} />
 
