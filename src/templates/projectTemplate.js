@@ -48,6 +48,16 @@ const ProjectContent = styled.section`
       margin-bottom: ${rem(24)};
     }
 
+    ul {
+      li {
+        font-family: ${props => props.theme.ffPrimary};
+        font-size: ${rem(29)};
+        line-height: 1.2;
+        font-weight: 300;
+        // margin-bottom: ${rem(24)};
+      }
+    }
+
     blockquote {
       p {
         font-style: italic;

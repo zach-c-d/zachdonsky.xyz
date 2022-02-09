@@ -35,7 +35,7 @@ TechTAP sold the system to a supplier of grocery store lighting solutions down i
 
 <article role="article">
 
-I actually got involved with the project from someone emailing the hacklab mailing board. They were looking for a way to toggle power on a light that ran on mains power. I responded back, keen to cut my teeth on my very first electronics contract job! It also seemed the perfect opportunity to test out the ESP8266, a WiFi capable microcontroller I had heard about at hacklab but never used myself.
+I got involved with the project from someone emailing the hacklab mailing board. They were looking for a way to toggle power on a light that ran on mains power. I responded back, keen to cut my teeth on my very first electronics contract job! It also seemed the perfect opportunity to test out the ESP8266, a WiFi capable microcontroller I had heard about at hacklab but never used myself.
 
 Over a weekend myself and a TechTAP employee ( @exluto ) put together a proof of concept of the ButtonQ at Hacklab.TO!
 
@@ -55,7 +55,7 @@ Over a weekend myself and a TechTAP employee ( @exluto ) put together a proof of
 
 After building the proof of concept TechTAP hired me on fulltime to complete the project.
 
-During the next month and a half I put together a set of 8 prototype buttons built out of off the shelf parts.
+We were under high time constraints. I had 2 months from getting hired to put together a prototype to ship to the client. They wanted 8 buttons that could turn mains power on/off and trigger a notice on a digital signage screen.
 
 </article>
 
