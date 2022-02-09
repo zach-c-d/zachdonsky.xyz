@@ -69,4 +69,18 @@ We were under high time constraints. I had 2 months from getting hired to put to
 
 <article role="article">
 
+We used off the shelf parts for the buttons and mains power relay.
+
+</article>
+
+<article role="article">
+
+</article>
+
+<article role="article">
+
+</article>
+
+<article role="article">
+
 </article>
