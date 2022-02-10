@@ -55,7 +55,9 @@ Over a weekend myself and a TechTAP employee ( @exluto ) put together a proof of
 
 After building the proof of concept TechTAP hired me on fulltime to complete the project.
 
-We were under high time constraints. I had 2 months from getting hired to put together a prototype to ship to the client. They wanted 8 buttons that could turn mains power on/off and trigger a notice on a digital signage screen.
+I had 2 months from getting hired to put together a prototype to ship to the client. They wanted 8 buttons that could turn mains power on/off and trigger a notice on a digital signage screen.
+
+The design brief was well defined, but we were under high time constraints.
 
 </article>
 
@@ -63,13 +65,39 @@ We were under high time constraints. I had 2 months from getting hired to put to
 
 ![planning1](images/planning1.png)
 
+</article>
+
+<article role="article">
+
+We used off the shelf parts for everything.
+
+The button was an arcade button hooked to an esp8266 NodeMCU devboard and mounted on a PVC project case we bought off amazon.
+
+The mains power relay was trickier to do safely, but I found a [Controllable Four Outlet Power Relay Modules](https://www.adafruit.com/product/2935) from McMaster-Carr.
+
+</article>
+
+<article role="article">
+
+![inside of old button](images/inside-old-button.JPG)
+
+![old relays and buttons](images/old-relays-and-buttons.JPG)
+
+</article>
+
+<article role="article">
+
+Another developer at TechTAP found [PiSignage](https://github.com/colloqi/piSignage), an opensource digital signage program designed for the raspberry pi. Digging into it's source code, they discovered a way to build a simple Android app that would recieve signage content from PiSignage.
+
+Picking up from where their work left off, I architected a system which used the raspberry pi as the digital signage server, but also and MQTT server, and a fleet of esp8266's communicating to eachother and the pi over MQTT.
+
+</article>
+
+<article role="article">
+
 ![planning2](images/planning2.png)
 
-</article>
-
-<article role="article">
-
-We used off the shelf parts for the buttons and mains power relay.
+![raspberry-pis](images/raspberry-pis.png)
 
 </article>
 
@@ -79,8 +107,16 @@ We used off the shelf parts for the buttons and mains power relay.
 
 <article role="article">
 
+I programmed all the esp8266 devices published events, like state of it's switches, when it's button's been pressed, to an MQTT topic which was routed by the raspberry pi MQTT server. Then I wrote a simple python script that listened for all the events published by the esp8266s. Whenever one of the buttons were pressed, the python script would send a payload over socketio to the custom android app that had been made by the other TechTAP developer.
+
+I used systemd unit files to handle starting all required services on system boot.
+
+I used a cheap OpenWRT router to handle wireless communication.
+
 </article>
 
 <article role="article">
+
+![pi in action](images/pi-in-action.JPG)
 
 </article>
