@@ -73,7 +73,7 @@ We used off the shelf parts for everything.
 
 The button was an arcade button hooked to an esp8266 NodeMCU devboard and mounted on a PVC project case we bought off amazon.
 
-The mains power relay was trickier to do safely, but I found a [Controllable Four Outlet Power Relay Modules](https://www.adafruit.com/product/2935) from McMaster-Carr.
+The mains power relay was tricky to do safely, but I found a [Controllable Four Outlet Power Relay Modules](https://www.adafruit.com/product/2935) from McMaster-Carr.
 
 </article>
 
