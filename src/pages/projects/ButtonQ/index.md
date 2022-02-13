@@ -21,7 +21,7 @@ The ButtonQ was a project I built while I was working at TechTAP Inc. It was a p
 
 </article>
 
-ButtonQ is a screen that showed advertisements to customers waiting in line to checkout. Whenever a checkout aisle was available the screen would flash the number of the available checkout aisle.
+ButtonQ is wifi-connected button and a screen that showed advertisements to customers waiting in line to checkout. Whenever a cashier became available they could press their _button_ and the screen would flash the number of the available checkout aisle to _queue_ the next customer.
 
 TechTAP sold the system to a supplier of grocery store lighting solutions down in Nashville.
 
@@ -53,9 +53,9 @@ Over a weekend myself and a TechTAP employee ( @exluto ) put together a proof of
 
 <article role="article">
 
-After building the proof of concept TechTAP hired me on fulltime to complete the project.
+After building this proof of concept, TechTAP hired me on fulltime to complete the project.
 
-I had 2 months from getting hired to put together a prototype to ship to the client. They wanted 8 buttons that could turn mains power on/off and trigger a notice on a digital signage screen.
+I had 2 months from getting hired to put together a prototype to ship to the client. The client's ask was 8 buttons that could turn mains power on/off and trigger a notice on a digital signage screen.
 
 The design brief was well defined, but we were under high time constraints.
 
@@ -89,7 +89,7 @@ The mains power relay was tricky to do safely, but I found a [Controllable Four 
 
 Another developer at TechTAP found [PiSignage](https://github.com/colloqi/piSignage), an opensource digital signage program designed for the raspberry pi. Digging into it's source code, they discovered a way to build a simple Android app that would recieve signage content from PiSignage.
 
-Picking up from where their work left off, I architected a system which used the raspberry pi as the digital signage server, but also and MQTT server, and a fleet of esp8266's communicating to eachother and the pi over MQTT.
+Picking up from where their work left off, I architected a system which used the raspberry pi as a digital signage server and MQTT server, and a fleet of esp8266's communicating to eachother and the pi over MQTT.
 
 </article>
 
@@ -107,16 +107,34 @@ Picking up from where their work left off, I architected a system which used the
 
 <article role="article">
 
-I programmed all the esp8266 devices published events, like state of it's switches, when it's button's been pressed, to an MQTT topic which was routed by the raspberry pi MQTT server. Then I wrote a simple python script that listened for all the events published by the esp8266s. Whenever one of the buttons were pressed, the python script would send a payload over socketio to the custom android app that had been made by the other TechTAP developer.
+I wrote firmware for the buttons and relays using HTTP, WiFi, and MQTT libraries for the esp8266. The buttons published to MQTT topics that the relays were subscibed to. When one of a button's switches changed state the event would get published and routed by the RaspberryPi to that button's paired relay.
 
-I used systemd unit files to handle starting all required services on system boot.
+For the Pi I wrote a simple python script that listened for all the events published by the esp8266s. Whenever one of the buttons were pressed, the python script would send a request over socketio to the custom android app that had been made by the other TechTAP developer. I used systemd unit files to handle starting all required services on system boot.
 
-I used a cheap OpenWRT router to handle wireless communication.
+For networking I used a cheap OpenWRT router.
 
 </article>
 
 <article role="article">
 
 ![pi in action](images/pi-in-action.JPG)
+
+</article>
+
+<article role="article">
+
+We were able to hit our 2 month deadline! Though it took a few very long days of testing and last minute changes in the office and some rushed weekend shipping. The client was thrilled with the prototype and was ready rehire us for another round of revisions.
+
+</article>
+
+<article role="article">
+
+</article>
+
+<article role="article">
+
+</article>
+
+<article role="article">
 
 </article>
