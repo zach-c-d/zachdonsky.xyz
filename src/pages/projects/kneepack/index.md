@@ -21,7 +21,7 @@ A couple weeks after posting the message I got a response from a lady who explai
 
 <article role="article">
 
-![image of lady prototyping at ocad](images/louiseatocad.jpg)
+![nice Drawing](images/niceDrawing.jpg)
 
 </article>
 
@@ -33,11 +33,21 @@ Soon after I was able to meet up with her and her husband at OCAD. We spent the 
 
 <article role="article">
 
-![nice Drawing](images/niceDrawing.jpg)
+![image of lady prototyping at ocad](images/louiseatocad.jpg)
 
 </article>
 
 <article role="article">
+
+![](images/kneepack-formal.jpg)
+
+![](images/cliponStrap.jpg)
+
+![](images/helper-concept.jpg)
+
+![](images/kneepack-materials.jpg)
+
+![](images/kneepack-interactions.jpg)
 
 </article>
 
@@ -49,6 +59,18 @@ Soon after I was able to meet up with her and her husband at OCAD. We spent the 
 
 <article role="article">
 
-The physical prototype was a bit of a mess. It was my first attempt at building a soft product.
+This concept has not yet been realized. But its something I'd like to revisit in the future! I still find myself sketching ideas for this product. The photo below is a of a drawing from a few days ago! (Feb 13 2022)
+
+</article>
+
+<article role="article">
+
+![](images/side-clamp.JPEG)
+
+</article>
+
+<article role="article">
+
+Sewing is difficult, but facinating and inspiring. Work on this project inspired me to start repairing my own soft products, like a patch I applied my backpack! I look forward to when I'm able to return to this concept with my new sewing skills.
 
 </article>

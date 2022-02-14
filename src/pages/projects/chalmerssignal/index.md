@@ -33,7 +33,7 @@ The Chalmers Signal is the second [Chalmers Project](https://www.chalmerscards.c
 
 Below is an image of an experiment I ran at the [St. Felix Center](http://stfelixcentre.ca/). It's an internet button that sends me an email when the staff run out of [chalmers cards](https://zachdonsky.xyz/ChalmersCards).
 
-It works well too! The shelter staff tell me they get a kick out of pressing a button to have me show up a few hours later.
+It worked well too! The shelter staff told me they got a kick out of pressing a button to have me show up a few hours later.
 
 </article>
 
@@ -47,7 +47,7 @@ It works well too! The shelter staff tell me they get a kick out of pressing a b
 
 > In the time I've spent studying homelessness in Toronto I've come to learn how important time is to shelter staff.
 
-Sometimes when I hang around the shelter reception desk I'll watch the receptionist answer to three clients in person, take a phone call, and shout to another staff member back in the office, all in the space of five minutes. If the receptionist has to update a referral service on their capacity, it often means calling the referral service directly and waiting on hold.
+Sometimes when I would hang around a shelter reception desk I would watch the receptionist answer to three clients in person, take a phone call, and shout to another staff member back in the office, all in the space of five minutes. If the receptionist has to update a referral service on their occupancy, it often means calling the referral service directly and waiting on hold.
 
 </article>
 
@@ -77,7 +77,9 @@ We built a really neat web-app. The main interface allowed shelter staff to publ
 
 <article role="article">
 
-![basecount wireframe](images/basecount.png)
+<iframe loading="lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fdk4oQvyGyFsljLaKXSBwM9zC%2Fbasecount-wireframes%3Fnode-id%3D11%253A103%26viewport%3D664%252C1289%252C0.18000000715255737%26scaling%3Dscale-down&amp;chrome=DOCUMENTATION" allowfullscreen="" width="600" height="800"></iframe>
+
+Basecount prototype created by [Vivian Ngai](https://www.byvivian.com/basecount/), [Joey Hua](https://joeyhua.com/), and team Basecount
 
 </article>
 
