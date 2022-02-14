@@ -21,9 +21,11 @@ The ButtonQ was a project I built while I was working at TechTAP Inc. It was a p
 
 </article>
 
-ButtonQ is wifi-connected button and a screen that showed advertisements to customers waiting in line to checkout. Whenever a cashier became available they could press their _button_ and the screen would flash the number of the available checkout aisle to _queue_ the next customer.
+ButtonQ is a wifi-connected button and a screen that showed advertisements to customers waiting in line to checkout.
 
-TechTAP sold the system to a supplier of grocery store lighting solutions down in Nashville.
+Whenever a cashier became available they could press their _button_ and the screen would flash the number of the available checkout aisle to _queue_ the next customer.
+
+TechTAP sold the system to a supplier of grocery store lighting solutions in Nashville.
 
 </article>
 
@@ -35,9 +37,11 @@ TechTAP sold the system to a supplier of grocery store lighting solutions down i
 
 <article role="article">
 
-I got involved with the project from someone emailing the hacklab mailing board. They were looking for a way to toggle power on a light that ran on mains power. I responded back, keen to cut my teeth on my very first electronics contract job! It also seemed the perfect opportunity to test out the ESP8266, a WiFi capable microcontroller I had heard about at hacklab but never used myself.
+I got involved with the project from someone emailing the [Hacklab.to](https://www.hacklab.to/) mailing board. They were looking for a way to toggle power on a light that ran on mains power.
 
-Over a weekend myself and a TechTAP employee ( @exluto ) put together a proof of concept of the ButtonQ at Hacklab.TO!
+I responded back, keen to cut my teeth on my very first electronics contract job! It also seemed the perfect opportunity to test out the ESP8266, a WiFi capable microcontroller I had heard about at hacklab but never used myself.
+
+Over a weekend a TechTAP employee, [@exluto](https://youtube.fandom.com/wiki/Exluto), and I put together a (percarious) proof of concept of the ButtonQ at Hacklab.TO!
 
 </article>
 
@@ -73,7 +77,7 @@ We used off the shelf parts for everything.
 
 The button was an arcade button hooked to an esp8266 NodeMCU devboard and mounted on a PVC project case we bought off amazon.
 
-The mains power relay was tricky to do safely, but I found a [Controllable Four Outlet Power Relay Modules](https://www.adafruit.com/product/2935) from McMaster-Carr.
+The mains power relay was tricky to do safely, but I found a [Controllable Four Outlet Power Relay Module](https://www.adafruit.com/product/2935) on the McMaster-Carr website.
 
 </article>
 

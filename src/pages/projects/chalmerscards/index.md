@@ -15,7 +15,11 @@ order: 1
 
 Chalmers Cards are wooden information booklets that are designed to be given out at Toronto's emergency shelters and to folks sleeping on the streets of Toronto.
 
-Chalmers Cards is the first project from [Chalmers](https://www.chalmerscards.com), which is an social venture to improve the state of homlessness in Toronto.
+Chalmers Cards is the first [Chalmers Project](https://www.chalmerscards.com), a guerilla project that aims to improve the state of homlessness in Toronto.
+
+**This article is in the same it was in 2017, when I had just started this project. I've left it like this for archival purposes, and so that I can look back at how I saw this project back then.**
+
+> For the more up-to-date article on Chalmers Cards, please visit https://www.chalmerscards.com/chalmerscards
 
 </article>
 
@@ -125,7 +129,7 @@ Printing the information on card was a huge mistake. They felt cheap and uninter
 
 <article role="article">
 
-I spent my winter holiday at Hacklab learning the laser cutter. For those two weeks, I practically lived there. Hacklab's laser was bought with a broken control board, and without any software to operate it. so major parts of the laser itself, and a lot of it's workflow, was built by Hacklab members. It gives the laser a lot of character; And a lot of quirks. But by the time school was back on in January, I had developed a workflow for cutting batches of these wooden information cards.
+I spent my winter holiday at [Hacklab.to](https://www.hacklab.to) learning their laser cutter. For those two weeks, I practically lived there. Hacklab's laser was bought with a broken control board, and without any software to operate it. So major parts of the laser, and a lot of it's workflow, was built by Hacklab members. It gives the laser a lot of character; And a lot of quirks. But by the time school was back on in January, I had developed a workflow for cutting batches of these wooden information cards.
 
 </article>
 

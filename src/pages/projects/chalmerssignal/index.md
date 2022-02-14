@@ -15,13 +15,33 @@ order: 3
 
 The Chalmers Signal is an internet enabled dial designed for reporting shelter occupancy.
 
+The Chalmers Signal is the second [Chalmers Project](https://www.chalmerscards.com), a guerilla project that aims to improve the state of homlessness in Toronto.
+
+**This article is out of date. It's in the same state it was in 2018, when I had just started this project. I've left it like this for archival purposes, and so that I can look back at how I saw this project back then. That being said, I plan to update this page with the work I've done to get the project from where it is in this article to where it is now. Please check back soon!**
+
+> For the more up-to-date article on the Chalmers Signal, please visit https://www.chalmerscards.com/chalmerssignal
+
+</article>
+
+<article role="article">
+
+![prototyping wip](images/prototyping-wip.jpg)
+
+</article>
+
+<article role="article">
+
 Below is an image of an experiment I ran at the [St. Felix Center](http://stfelixcentre.ca/). It's an internet button that sends me an email when the staff run out of [chalmers cards](https://zachdonsky.xyz/ChalmersCards).
 
 It works well too! The shelter staff tell me they get a kick out of pressing a button to have me show up a few hours later.
 
 </article>
 
+<article role="article">
+
 ![Chalmers Signal](images/signalAtStFelix.jpg)
+
+</article>
 
 <article role="article">
 
@@ -31,7 +51,11 @@ Sometimes when I hang around the shelter reception desk I'll watch the reception
 
 </article>
 
+<article role="article">
+
 ![basecount problem research](images/basecountProblemStatement.png)
+
+</article>
 
 <article role="article">
 
@@ -39,7 +63,11 @@ The diagram above was made as a part of the [Basecount](/basecount) project. Wit
 
 </article>
 
+<article role="article">
+
 ![basecount target solution](images/basecounttargetsolution.png)
+
+</article>
 
 <article role="article">
 
@@ -47,7 +75,11 @@ We built a really neat web-app. The main interface allowed shelter staff to publ
 
 </article>
 
+<article role="article">
+
 ![basecount wireframe](images/basecount.png)
+
+</article>
 
 <article role="article">
 
@@ -57,7 +89,11 @@ The difficulty was that it felt like we had given shelter staff _another_ task. 
 
 </article>
 
+<article role="article">
+
 ![rendering 1](images/rendering1.png)
+
+</article>
 
 <article role="article">
 
@@ -71,7 +107,11 @@ It might live behind a reception desk of a main office, like the one pictured be
 
 </article>
 
+<article role="article">
+
 ![Chalmers Signal illustration](images/chalmersSignalIllustration.png)
+
+</article>
 
 <article role="article">
 
@@ -79,15 +119,23 @@ In the above illustraion, a rotating selector switch rests on a desk, connected 
 
 </article>
 
-![chalmers signal and exploded view](images/ChalmersSignal.png)
-
 <article role="article">
 
-I've been designing the device to be inexpensive, and to be assembled in a makerspace with a lasercutter and an electronics bench (e.g. [HackLab.TO](Hacklab.to) -- I am a member). I expect the material cost of each switch to be ~\$20. The design above has a graphic display for showing what occupancy it's currently broadcasting, and an rgb LED which fades to red as the dial is moved towards 100% occupancy.
+![chalmers signal and exploded view](images/ChalmersSignal.png)
 
 </article>
 
+<article role="article">
+
+I've been designing the device to be inexpensive, and to be assembled in a makerspace with a lasercutter and an electronics bench (e.g. [HackLab.TO](https://www.Hacklab.to) -- I am a member). I expect the material cost of each switch to be ~\$20. The design above has a graphic display for showing what occupancy it's currently broadcasting, and an rgb LED which fades to red as the dial is moved towards 100% occupancy.
+
+</article>
+
+<article role="article">
+
 ![shelter watch](images/shelterwatch.png)
+
+</article>
 
 <article role="article">
 
