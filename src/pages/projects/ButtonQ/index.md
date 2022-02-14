@@ -173,7 +173,7 @@ To satisfy the clients requirements I used a small fleet of 3d printers at the T
 
 The Home Hardware at College and Spadina has an electronics section in their basement. Luckily I was able to find a clicky momentary switch that was the same size standard as the one in APRBrother's button!
 
-Finally, I enlisted (and paid for) the help of my friend Rana to do the slow work of replacing the button's momentary buttons, adding an on/off switch, and (regretfully) soldering the FTDI programmers to the buttons to provide a usb interface for power.
+Knowing our team would require additional temporary support, I contracted the help of my friend Rana to do the slow work of replacing the button's momentary buttons, adding an on/off switch, and (regretfully) soldering the FTDI programmers to the buttons to provide a usb interface for power.
 
 </article>
 
@@ -185,7 +185,7 @@ Finally, I enlisted (and paid for) the help of my friend Rana to do the slow wor
 
 <article role="article">
 
-After a very long night of soldering, and 3 coats of boring-corporate-grey spray paint, the buttons were done!
+After a long night of soldering, and 3 coats of boring-corporate-grey spray paint, the buttons were done!
 
 </article>
 
@@ -227,7 +227,7 @@ SONOFF brand items smart home devices that are ESP8266 based. Though ITEAD ships
 
 <article role="article">
 
-Using the FTDI-USB programmer that we got with our AliExpress ESP8266 buttons I was able to program the esp8266 devices! I even tried making a jig to program them faster in batches! (The jig worked, but not reliably enough to make it worth fiddling with rather than )
+Using the FTDI-USB programmer that we got with our AliExpress ESP8266 buttons I was able to program the esp8266 devices! I even tried making a jig to program them faster in batches!
 
 </article>
 
@@ -239,7 +239,7 @@ Using the FTDI-USB programmer that we got with our AliExpress ESP8266 buttons I 
 
 <article role="article">
 
-More late nights of flashing, testing, and fixing followed while we tried to meet our 2 month deadline. With the support of my coworkers a ButtonQ set of 8 buttons was prepared and shipped to our client.
+Some late nights of flashing, testing, and fixing followed in order to meet the client's ambitious 2 month deadline. With the support of my coworkers a ButtonQ set of 8 buttons was prepared and shipped to our client.
 
 </article>
 
@@ -255,7 +255,7 @@ More late nights of flashing, testing, and fixing followed while we tried to mee
 
 TechTAP was contracted for a third iteration of the ButtonQ button. The clients ask this time was a flatter, smaller button. Something simple and cylindrical.
 
-I created a 3 printed button case that was fully parametric! That way we could easily create different sizes to the client's taste.
+I created a 3D printed button case that was fully parametric! That way we could easily create different sizes to the client's taste.
 
 </article>
 
@@ -269,10 +269,6 @@ I created a 3 printed button case that was fully parametric! That way we could e
 
 <article role="article">
 
-I switched jobs shortly after starting the third iteration of the ButtonQ project and never saw it to completion.
-
 This project was an exercise in self learning. My coworkers at TechTAP were hugely supportive in the completion of each iteration of this project. But I was most often on my own for solving the technical challenges required to realize this project. CAD and 3D printing were areas I had only dabbled in before this project. I was still quite new to electronics and firmware development. I also learned way more about networking and Linux system administration! Through the development of ButtonQ I became proficient enough to ship a product to a client (twice!) that relied on all of these skills!
-
-> It was bittersweet to leave a position where I got so much creative freedom in to how realize a solution for such a simple design brief.
 
 </article>

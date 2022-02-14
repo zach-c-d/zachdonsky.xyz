@@ -13,13 +13,13 @@ order: 1
 
 <article role="article">
 
+**Note: this project was my thesis project for my OCAD Industrial Design degree. Since then it has been through several small production runs and is now an [open source asset on Github](https://github.com/chalmersproject/chalmers-cards).**
+
+> For the more up-to-date article on Chalmers Cards, please visit https://www.chalmerscards.com/chalmerscards
+
 Chalmers Cards are wooden information booklets that are designed to be given out at Toronto's emergency shelters and to folks sleeping on the streets of Toronto.
 
 Chalmers Cards is the first [Chalmers Project](https://www.chalmerscards.com), a guerilla project that aims to improve the state of homlessness in Toronto.
-
-**This article is in the same it was in 2017, when I had just started this project. I've left it like this for archival purposes, and so that I can look back at how I saw this project back then.**
-
-> For the more up-to-date article on Chalmers Cards, please visit https://www.chalmerscards.com/chalmerscards
 
 </article>
 
@@ -174,5 +174,17 @@ Originally my plan was to share the load of producing the cards across the diffe
 Unfortunately, not all lasers are created equal. The laser tube and lens at hacklab are particularly well suited for the fine detail needed on a Chalmers Card. None of the other lasers I tested were capable of the same level of detail.
 
 Currently, each booklet only costs about \$0.10 in materials so long as a I make them myself at HackLab. Of course, making them myself indefinitely is unsustainable. Instead, I may increase the cost of each booklet a few dollars by ordering vinyl stickers with information on them, and then just sticking them to the wooden cards.
+
+</article>
+
+<article role="article">
+
+The process book for the work I did on Chalmers Cards while in my thesis year at OCAD is available here.
+
+</article>
+
+<article role="article">
+
+![process book cover page](images/process-book-cover-page.PNG)
 
 </article>

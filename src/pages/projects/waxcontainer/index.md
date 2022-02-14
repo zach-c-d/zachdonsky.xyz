@@ -8,7 +8,7 @@ thumbnail: './thumbnail.svg'
 
 # Options
 path: '/waxcontainer/'
-order: 4
+order: 7
 ---
 
 <article role="article">
@@ -43,7 +43,7 @@ Here's a rendering of our latest design:
 
 <article role="article">
 
-A few days ago we printed it up at [Hacklab.to](Hacklab.to). We're going to try and make a mold out of the model, and then try to cast a first silicone prototype in it.
+A few days ago we printed it up at [Hacklab.to](Hacklab.to). We're going to try and make a mold out of the model, and then try to cast a first silicone prototype in it. (Jan 13 2019)
 
 </article>
 

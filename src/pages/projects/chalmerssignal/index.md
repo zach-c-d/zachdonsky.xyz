@@ -13,13 +13,13 @@ order: 3
 
 <article role="article">
 
+**Please note: This article is about the development of Chalmers Signal V1.**
+
+> For the more up-to-date article on the Chalmers Signal, please visit https://www.chalmerscards.com/chalmerssignal
+
 The Chalmers Signal is an internet enabled dial designed for reporting shelter occupancy.
 
 The Chalmers Signal is the second [Chalmers Project](https://www.chalmerscards.com), a guerilla project that aims to improve the state of homlessness in Toronto.
-
-**This article is out of date. It's in the same state it was in 2018, when I had just started this project. I've left it like this for archival purposes, and so that I can look back at how I saw this project back then. That being said, I plan to update this page with the work I've done to get the project from where it is in this article to where it is now. Please check back soon!**
-
-> For the more up-to-date article on the Chalmers Signal, please visit https://www.chalmerscards.com/chalmerssignal
 
 </article>
 

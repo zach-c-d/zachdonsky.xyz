@@ -8,7 +8,7 @@ thumbnail: './thumbnail.svg'
 
 # Options
 path: '/kneepack/'
-order: 4
+order: 5
 ---
 
 <article role="article">
@@ -38,8 +38,6 @@ Soon after I was able to meet up with her and her husband at OCAD. We spent the 
 </article>
 
 <article role="article">
-
-The project was intended to be build for my core industrial design class; I only had month or so to complete it.
 
 </article>
 

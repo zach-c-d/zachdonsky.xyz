@@ -1,37 +1,62 @@
 ---
 # Metadata
-title: "Fluid Handling Robot"
-type: "Electronics / Hardware Hacking"
+title: 'Fluid Handling Robot'
+type: 'Electronics / Hardware Hacking'
 
 # Thumbnails
-thumbnail: "./thumbnail.svg"
+thumbnail: './thumbnail.svg'
 
 # Options
-path: "/fluidrobot/"
-order: 4
+path: '/fluidrobot/'
+order: 5
 ---
 
 <article role="article">
 
-My friends from *Spindle Biotech* had become privey to an electronics dump that Princess Margret Hospital was going to make. They scored a lot of neat robots; amongst them a fluid handling robot.
+My friends from _Spindle Biotech_ had become privey to an electronics dump that Princess Margret Hospital was going to make. They scored a lot of neat robots; amongst them a fluid handling robot.
 
-So in the fall of 2018 I was contracted by *Spindle Biotech* to help them get the fluid handling robot up and running.
-
-Since they got it from a dump, they didn't get any software to control it. Our plan was to completely replace the control board with an open source one, and run the robot with open source firmware and hardware.
-
-For a control board we used a RAMPS board with an Arduino Mega, and a custom circuit board for the endstop and stepper cables to terminate into.
+In the fall of 2018 I was contracted by _Spindle Biotech_ to help them get the fluid handling robot up and running.
 
 </article>
-
-![Chalmers Signal](images/signalAtStFelix.jpg)
-
 
 <article role="article">
 
-It was a short project. From research to the prototype it only took about 12 hours.
-
-I had a great time playing with the ESP8266, making them into a simple web server and client.
+![machine main view](images/machinemainview.jpg)
 
 </article>
 
-![Chalmers Signal illustration](images/chalmersSignalIllustration.png)
+<article role="article">
+
+Since they got it from a dump, they didn't get any software to control it. Our plan was to completely replace the control board with an open source one, and run the robot with open source firmware and hardware. The machine was also missing a mount for a vial tray.
+
+<article role="article">
+
+![planning circuit](images/ribboncablelayout.jpg)
+
+![planning circuit](images/ribboncablebreakout.jpg)
+
+</article>
+
+For a control board we used a RAMPS board with an Arduino Mega, and a custom circuit board for the endstop and stepper cables to terminate into. I then laser cut a simple mount for a vial tray that Spindle Biotech provided me with.
+
+We loaded Marlin onto the Arduino and were able to get the needle moving!
+
+</article>
+
+<article role="article">
+
+![custom circuit](images/ribboncableboard.jpg)
+
+![custom circuit](images/ribboncableboardconnectedtomachine.jpg)
+
+![vial tray mount](images/vialtray.jpg)
+
+</article>
+
+<article role="article">
+
+</article>
+
+<article role="article">
+
+</article>

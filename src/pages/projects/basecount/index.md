@@ -8,7 +8,7 @@ thumbnail: './thumbnail.svg'
 
 # Options
 path: '/basecount/'
-order: 5
+order: 4
 ---
 
 <article role="article">
