@@ -179,7 +179,7 @@ Currently, each booklet only costs about \$0.10 in materials so long as a I make
 
 <article role="article">
 
-The process book for the work I did on Chalmers Cards while in my thesis year at OCAD is available here.
+[The process book for the work I did on Chalmers Cards while in my thesis year at OCAD is available here](https://raw.githubusercontent.com/zacharydonsky/zachdonsky.xyz/master/src/assets/ChalmersCardsProcessBook.pdf).
 
 </article>
 
