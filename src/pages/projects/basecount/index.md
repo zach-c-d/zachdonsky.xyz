@@ -1,14 +1,14 @@
 ---
 # Metadata
-title: "Basecount"
-type: "Research + Web Development"
+title: 'Basecount'
+type: 'Research + Web Development'
 
 # Thumbnails
-thumbnail: "./thumbnail.svg"
+thumbnail: './thumbnail.svg'
 
 # Options
-path: "/basecount/"
-order: 3
+path: '/basecount/'
+order: 5
 ---
 
 <article role="article">
@@ -21,12 +21,11 @@ That Janurary I joined an open source project at Civic Tech to tackle the way sh
 
 ![Image of WebApp](images/webapp.png)
 
-
 <article role="article">
 
 Our team visited shelter staff around Toronto to try and understand what their experience was like when they had to update referral services on capacity.
 
-Our Research showed that Toronto's referral services were mostly relying on phone conversations for their data. There was a digital occupancy management software that shelters had to track and publish this data, but it was too clunky to update it live. Most shelters updated it just once per night, just to record whether they had hit capacity or not.  
+Our Research showed that Toronto's referral services were mostly relying on phone conversations for their data. There was a digital occupancy management software that shelters had to track and publish this data, but it was too clunky to update it live. Most shelters updated it just once per night, just to record whether they had hit capacity or not.
 
 So our team started development of a mobile friendly webapp where shelter staff could log in to their shelter's account and publish what their live capacity was.
 

@@ -1,14 +1,14 @@
 ---
 # Metadata
 title: 'ButtonQ'
-type: 'Electronics'
+type: 'Prototyping + Electronics'
 
 # Thumbnails
 thumbnail: './thumbnail.svg'
 
 # Options
-path: '/mainsswitch/'
-order: 3
+path: '/buttonq/'
+order: 2
 ---
 
 <article role="article">

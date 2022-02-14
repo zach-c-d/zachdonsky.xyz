@@ -1,14 +1,14 @@
 ---
 # Metadata
-title: "Chalmers Signal"
-type: "Electronics + Design + Web"
+title: 'Chalmers Signal'
+type: 'Electronics + Design + Web'
 
 # Thumbnails
-thumbnail: "./thumbnail.svg"
+thumbnail: './thumbnail.svg'
 
 # Options
-path: "/chalmerssignal/"
-order: 2
+path: '/chalmerssignal/'
+order: 3
 ---
 
 <article role="article">
@@ -51,7 +51,7 @@ We built a really neat web-app. The main interface allowed shelter staff to publ
 
 <article role="article">
 
-The difficulty was that it felt like we had given shelter staff *another* task. Using the web-app required the user to bookmark or remember the URL, to sign up for authentication, and to learn to navigate the UI.
+The difficulty was that it felt like we had given shelter staff _another_ task. Using the web-app required the user to bookmark or remember the URL, to sign up for authentication, and to learn to navigate the UI.
 
 > Our project would help produce better data around shelter occupancy, but it really didn't make the shelter staff's lives easier.
 
@@ -65,7 +65,7 @@ While experimenting with the internet switch I left at St. Felix, I discovered m
 
 > What if broadcasting your shelter's live occupancy was as easy as turning a dial?
 
-So I started prototyping what a *shelter occupancy broadcasting device* might look like.
+So I started prototyping what a _shelter occupancy broadcasting device_ might look like.
 
 It might live behind a reception desk of a main office, like the one pictured below (modeled after the desk at St. Felix):
 
@@ -83,12 +83,11 @@ In the above illustraion, a rotating selector switch rests on a desk, connected 
 
 <article role="article">
 
-I've been designing the device to be inexpensive, and to be assembled in a makerspace with a lasercutter and an electronics bench (e.g. [HackLab.TO](Hacklab.to) -- I am a member). I expect the material cost of each switch to be ~$20. The design above has a graphic display for showing what occupancy it's currently broadcasting, and an rgb LED which fades to red as the dial is moved towards 100% occupancy.
+I've been designing the device to be inexpensive, and to be assembled in a makerspace with a lasercutter and an electronics bench (e.g. [HackLab.TO](Hacklab.to) -- I am a member). I expect the material cost of each switch to be ~\$20. The design above has a graphic display for showing what occupancy it's currently broadcasting, and an rgb LED which fades to red as the dial is moved towards 100% occupancy.
 
 </article>
 
 ![shelter watch](images/shelterwatch.png)
-
 
 <article role="article">
 
@@ -96,5 +95,6 @@ In addition to broadcasting occupancy data, it's important to display the data i
 
 One of my friends from Basecount, [Flipip Stepien](https://filipstepien.com/), developed a map interface for surfacing shelter occupancy data: [Shelter Watch](https://shelter.filipstepien.com/) (pictured above).
 
-With the help of *Shelter Watch*, data from Chalmers Signals can be pushed to [firebase](firebase.google.com), and surface on the *Shelter Watch* interface. 
+With the help of _Shelter Watch_, data from Chalmers Signals can be pushed to [firebase](firebase.google.com), and surface on the _Shelter Watch_ interface.
+
 </article>

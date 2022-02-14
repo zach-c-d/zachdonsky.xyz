@@ -1,13 +1,13 @@
 ---
 # Metadata
-title: "Chalmers Cards"
-type: "Research + Design + Manufacturing"
+title: 'Chalmers Cards'
+type: 'Research + Design'
 
 # Thumbnails
-thumbnail: "./thumbnail.svg"
+thumbnail: './thumbnail.svg'
 
 # Options
-path: "/chalmerscards/"
+path: '/chalmerscards/'
 order: 1
 ---
 
@@ -15,12 +15,17 @@ order: 1
 
 Chalmers Cards are wooden information booklets that are designed to be given out at Toronto's emergency shelters and to folks sleeping on the streets of Toronto.
 
-Chalmers Cards is the first project from [Chalmers](www.chalmerscards.com), which is an social venture to improve the state of homlessness in Toronto.
+Chalmers Cards is the first project from [Chalmers](https://www.chalmerscards.com), which is an social venture to improve the state of homlessness in Toronto.
 
 </article>
 
+<article role="article">
+
 ![Chalmers Cards batch](images/tastyBatch.jpg)
+
 ![Chalmers card snapped to jeans](images/snappedToJeans.jpg)
+
+</article>
 
 <article role="article">
 
@@ -28,20 +33,23 @@ Chalmers Cards is the first project from [Chalmers](www.chalmerscards.com), whic
 
 My goal going into thesis year at OCAD was to put a dent in Toronto's population experiencing homelessness. I started with my favorite design philosophy:
 
->"Fall in love with the problem, not your solution. Solutions are just your experiments."
+> "Fall in love with the problem, not your solution. Solutions are just your experiments."
 
 In this case, I identified the problem as being that **Toronto's social infrastructure was failing to scale with the increasing homeless population**. I began by trying to fall in love with the structures of Toronto's social infrastructure
 
 </article>
 
+<article role="article">
+
 ![Diagram of Toronto social assistance](images/torontoInfrastructure.png)
 
+</article>
 
 <article role="article">
 
 Toronto's social support structures are complicated. There wasn't much public documentation available about the inner workings of Toronto's two major support administrations, SSHA (Shelter, Support, and Housing Administration) and TESS/OW (Toronto Employment Services / Ontario Works).
 
-Even information *intended* to be public facing was difficult to find and spread wildly across the internet. Things like what resources are available, when are they available, who can access them.
+Even information _intended_ to be public facing was difficult to find and spread wildly across the internet. Things like what resources are available, when are they available, who can access them.
 
 Most of what I was able to learn was from the front line staff who administered these services, and from people who had used the services first hand.
 
@@ -51,19 +59,30 @@ Ironically, my difficulty in researching Toronto's social services is what led t
 
 </article>
 
-![Problem statement: poor information sources](images/poorInformation.png)
-![Potential methods for delivering information statement](images/improvedInformation.png)
-![Potential project directions](images/projectDirections.png)
-
 <article role="article">
 
-My first solution direction was *some kind* of an information delivery network; Which was broken down into four project directions.
+![Problem statement: poor information sources](images/poorInformation.png)
 
-At the time it seemed the obvious choice was to find a way to deliver internet access, and then a web app. An *internet solution* covered three of my four project directions. Luckily, only a few months previously the City of Toronto (under the guidance of the fabulous [CG Chen](https://www.behance.net/cgchen)) had built a web app mostlty to the spec of my project: [Toronto.ca/homelesshelp](toronto.ca/homelesshelp)!
+![Potential methods for delivering information statement](images/improvedInformation.png)
+
+![Potential project directions](images/projectDirections.png)
 
 </article>
 
+<article role="article">
+
+My first solution direction was _some kind_ of an information delivery network; Which was broken down into four project directions.
+
+At the time it seemed the obvious choice was to find a way to deliver internet access, and then a web app. An _internet solution_ covered three of my four project directions. Luckily, only a few months previously the City of Toronto (under the guidance of the fabulous [CG Chen](https://www.behance.net/cgchen)) had built a web app mostlty to the spec of my project: [Toronto.ca/homelesshelp](toronto.ca/homelesshelp)!
+
+</article>
+
+<article role="article">
+
 ![toronto.ca/homelesshelp](images/webapp.png)
+
+</article>
+
 <article role="article">
 
 I took to the streets to conduct some user testing on Toronto's webapp.
@@ -74,7 +93,11 @@ Most of the folks I talked to didn't own a computer! Theft is unfortunately very
 
 </article>
 
+<article role="article">
+
 ![paper chalmers card](images/protoChalmersCard.png)
+
+</article>
 
 <article role="article">
 
@@ -82,7 +105,11 @@ So the project direction moved to inexpensive handouts. They were quick to proto
 
 </article>
 
+<article role="article">
+
 ![paper card feedback](images/protoChalmersCardFeedback.png)
+
+</article>
 
 <article role="article">
 
@@ -90,7 +117,11 @@ Printing the information on card was a huge mistake. They felt cheap and uninter
 
 </article>
 
+<article role="article">
+
 ![image of early chalmers card](images/thefirstChalmersCard.png)
+
+</article>
 
 <article role="article">
 
@@ -98,7 +129,11 @@ I spent my winter holiday at Hacklab learning the laser cutter. For those two we
 
 </article>
 
+<article role="article">
+
 ![image of early chalmers card batch](images/forgottenChalmers.png)
+
+</article>
 
 <article role="article">
 
@@ -110,7 +145,11 @@ The cards now smelled nice, and felt nice in the hand. They could also be snappe
 
 </article>
 
+<article role="article">
+
 ![image of early chalmers card batch](images/allForgottenChalmers.png)
+
+</article>
 
 <article role="article">
 
@@ -118,7 +157,11 @@ The booklets have been really popular. But I haven't been able to meet the deman
 
 </article>
 
+<article role="article">
+
 ![image of zero cost Manufacturing](images/ZeroCostManufacturing.png)
+
+</article>
 
 <article role="article">
 
@@ -126,6 +169,6 @@ Originally my plan was to share the load of producing the cards across the diffe
 
 Unfortunately, not all lasers are created equal. The laser tube and lens at hacklab are particularly well suited for the fine detail needed on a Chalmers Card. None of the other lasers I tested were capable of the same level of detail.
 
-Currently, each booklet only costs about $0.10 in materials so long as a I make them myself at HackLab. Of course, making them myself indefinitely is unsustainable. Instead, I may increase the cost of each booklet a few dollars by ordering vinyl stickers with information on them, and then just sticking them to the wooden cards.
+Currently, each booklet only costs about \$0.10 in materials so long as a I make them myself at HackLab. Of course, making them myself indefinitely is unsustainable. Instead, I may increase the cost of each booklet a few dollars by ordering vinyl stickers with information on them, and then just sticking them to the wooden cards.
 
 </article>
